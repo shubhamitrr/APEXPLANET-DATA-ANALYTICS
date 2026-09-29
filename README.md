@@ -62,3 +62,45 @@ Task-1-EDA
 ├── outputs
 │   └── figures
 └── README.md
+
+# Task 2: SQL and Python Integration
+
+## 📌 Project Overview
+
+This task focuses on using SQL for data extraction, analysis, and business insights, along with integrating SQL with Python.
+
+The cleaned dataset from Task 1 was stored in a SQLite database and analyzed using SQL queries. Python and Pandas were then used to execute SQL queries and further analyze the results.
+
+## 🎯 Objectives
+
+- Perform SQL-based data analysis
+- Work with SQLite database
+- Practice basic and advanced SQL queries
+- Use SQL JOINs, Subqueries, CTEs, and Window Functions
+- Integrate SQL with Python
+- Perform business-oriented data analysis
+
+## 🛠️ Tools & Technologies
+
+- Python
+- SQL
+- SQLite
+- Pandas
+- Jupyter Notebook
+- Matplotlib
+
+## 📂 Project Structure
+
+```text
+Task-2-SQL-Python/
+│
+├── database/
+│   └── sales_analysis.db
+│
+├── sql/
+│   └── business_queries.sql
+│
+├── notebooks/
+│   └── Task-2-SQL-Python.ipynb
+│
+└── README.md
